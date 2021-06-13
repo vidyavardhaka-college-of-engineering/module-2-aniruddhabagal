@@ -5,7 +5,7 @@
 #include <stdio.h>
 int main() {
 	int i = 1, n;
-	printf("Enter an integer");
+	printf("Enter an integer\n");
 	scanf("%d",&n);
  // Fill the code in scanf()
 	do {
